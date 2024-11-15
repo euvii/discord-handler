@@ -1,4 +1,4 @@
-# Discord Bot Setup and Commands
+# discord.ts handler
 
 ## discord.ts handler using typescript to code your bots better then befor
 
