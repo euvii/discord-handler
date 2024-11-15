@@ -1,6 +1,6 @@
 # Discord Bot Setup and Commands
 
-## discord.js handler using typescript to code your bots better then befor
+## discord.ts handler using typescript to code your bots better then befor
 
 To run the bot, first make sure you've installed all the dependencies by running:
 
